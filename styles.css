@@ -1,0 +1,27 @@
+* {
+    background-color: lavenderblush;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+ }
+ h2, h3 {
+    font-size: large;
+    font-weight: bold;
+
+ }
+
+ p {
+    font-size: medium;
+    text-align: center;
+ }
+
+.list {
+
+    font-size: medium;
+    text-align: left;
+}
